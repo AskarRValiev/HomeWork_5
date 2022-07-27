@@ -1,0 +1,10 @@
+basic
+python
+c#
+algol
+java
+fortran
+focal
+logo
+kotlin
+perl
